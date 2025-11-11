@@ -1,6 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: xx.xx.xxxx
+  Major Features:
+    - Japanese localization (base game) - by shibagouki.
+  Bugfixes:
+    - Fixed typo.
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 20. 10. 2025
   Major Features:
     - Initial release.
-    - English, German
+    - English, German.
