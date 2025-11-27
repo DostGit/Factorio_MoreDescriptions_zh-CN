@@ -9,3 +9,4 @@ Adds flavored and basic descriptions to almost every item and entity in the game
 * 🇬🇧 English - Written by yours truly et al. I should've used a thesaurus more...
 * 🇩🇪 German/Deutsch - Machine translated, edited by me.
 * 🇯🇵 Japanese/日本語 (base game) - Translated by shibagouki.
+* 🇫🇷 French/Français - Translated by Supershadow301.
