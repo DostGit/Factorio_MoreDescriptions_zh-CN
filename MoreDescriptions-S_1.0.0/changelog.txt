@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 27.11.2025
+Date: 29.11.2025
   Major Features:
     - Japanese localization (base game) - by shibagouki.
     - French localization - by Supershadow301.
@@ -13,4 +13,5 @@ Date: 20. 10. 2025
   Major Features:
     - Initial release.
     - English, German.
+
 
